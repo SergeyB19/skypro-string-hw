@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c19f4a8e-9f3c-4c1c-b62e-be72381b9f8b" name="Changes" comment="Домашнее задание">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654151203940</updated>
-      <workItem from="1654151205361" duration="1129000" />
+      <workItem from="1654151205361" duration="1782000" />
     </task>
     <task id="LOCAL-00001" summary="Домашнее задание">
       <created>1654152004505</created>
@@ -64,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654152004505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Домашнее задание">
+      <created>1654153708901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654153708901</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Домашнее задание">
+      <created>1654153817832</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654153817832</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
